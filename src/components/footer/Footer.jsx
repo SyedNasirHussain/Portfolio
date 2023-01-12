@@ -13,9 +13,9 @@ const Footer = () => {
         <li><a href="#Aboutus">About us</a></li>
         <li><a href="#Contactus">Contact us</a></li>
         <li><a href="#Experience">Experience</a></li>
-        <li><a href="#Services">Services</a></li>
+        <li><a href="#Services">My Expertise</a></li>
         <li><a href="#Portfolio">Portfolio</a></li>  
-        <li><a href="#Testimoniols">Testimoniols</a></li>
+        {/* <li><a href="#Testimoniols">Testimoniols</a></li> */}
       </ul>
 <div className="footer-social">
   <a href="https://facebook.com"><BsFacebook/></a>
