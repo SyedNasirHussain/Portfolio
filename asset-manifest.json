@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.45fde71a.css",
-    "main.js": "/Portfolio/static/js/main.e18291ee.js",
+    "main.js": "/Portfolio/static/js/main.e9e7e742.js",
     "static/media/bg-img-1.jpg": "/Portfolio/static/media/bg-img-1.aa5a321e5ca301ef68d2.jpg",
     "static/media/portfolio5.jpg": "/Portfolio/static/media/portfolio5.90cdb09c233af767ecd7.jpg",
     "static/media/portfolio6.jpg": "/Portfolio/static/media/portfolio6.b300f875bac580b64602.jpg",
     "static/media/ammad.jpg": "/Portfolio/static/media/ammad.9040a672536daacd00e5.jpg",
     "static/media/about-me.jpeg": "/Portfolio/static/media/about-me.a178435c9590d4d77483.jpeg",
     "static/media/me.jpeg": "/Portfolio/static/media/me.a178435c9590d4d77483.jpeg",
-    "static/media/CV.pdf": "/Portfolio/static/media/CV.5b473852b8d82e8c3c58.pdf",
+    "static/media/Syed-Nasir-Hussain.pdf": "/Portfolio/static/media/Syed-Nasir-Hussain.5b473852b8d82e8c3c58.pdf",
     "static/media/portfolio1.jpg": "/Portfolio/static/media/portfolio1.1f6869230cbac39d5eac.jpg",
     "static/media/portfolio4.jpg": "/Portfolio/static/media/portfolio4.4099965b2597991003f6.jpg",
     "static/media/portfolio3.jpg": "/Portfolio/static/media/portfolio3.45e3d25d31a0f415b751.jpg",
@@ -16,10 +16,10 @@
     "static/media/portfolio2.jpg": "/Portfolio/static/media/portfolio2.241868445df661eeebd6.jpg",
     "index.html": "/Portfolio/index.html",
     "main.45fde71a.css.map": "/Portfolio/static/css/main.45fde71a.css.map",
-    "main.e18291ee.js.map": "/Portfolio/static/js/main.e18291ee.js.map"
+    "main.e9e7e742.js.map": "/Portfolio/static/js/main.e9e7e742.js.map"
   },
   "entrypoints": [
     "static/css/main.45fde71a.css",
-    "static/js/main.e18291ee.js"
+    "static/js/main.e9e7e742.js"
   ]
 }
