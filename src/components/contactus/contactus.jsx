@@ -14,7 +14,8 @@ const Contactus = () => {
       .sendForm(
         "service_341",
         "template_6ja9ea5",
-        form.current
+        form.current,
+        "OK2uL2XNB-Cndd72y"
       )
       .then(
         (result) => {
