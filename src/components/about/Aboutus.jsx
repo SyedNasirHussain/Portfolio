@@ -1,6 +1,6 @@
 import React from "react";
 import "./Aboutus.css";
-import Aboutme from "../../assets/about-me.jpeg";
+import Aboutme from "../../assets/about-me.png";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
